@@ -395,7 +395,7 @@ additional_section = st.radio("Selecciona una sección adicional:",
 if additional_section == "Acerca de":
     st.markdown("### Acerca de Mí")
     st.write("Soy un consultor con amplia experiencia en transformación digital, ciencia de datos, desarrollo web y estrategias financieras. Mi misión es impulsar la innovación en cada proyecto y ofrecer soluciones que marquen la diferencia.")
-    st.image("/home/nichi/Imágenes/tecoo.png", caption="Mi Imagen Profesional", use_container_width=True)
+    st.image("imagenes/holtmontSS.png", caption="Mi Imagen Profesional", use_container_width=True)
     st.write("Con un enfoque en resultados y una pasión por la tecnología, me dedico a ayudar a empresas a adaptarse y prosperar en un entorno digital en constante cambio.")
     # Testimonio dinámico simulado
     testimonial = random.choice([
