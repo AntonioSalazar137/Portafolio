@@ -72,13 +72,13 @@ portfolio = {
         {
             "title": "📌 Automatización en Google Sheets - Holtmont México",
             "description": "Desarrollo de un sistema de automatización en Google Sheets con Apps Script para gestionar la distribución de tareas, seguimiento de tiempos y consolidación de datos en Holtmont México. 🔗 Beneficio: Reducción del 40% en tiempos de ejecución de tareas administrativas y mejora de la visibilidad de los procesos internos.",
-            "image": "/home/nichi/Imágenes/Capturas de pantalla/Captura desde 2025-03-17 14-47-19.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoA"
         },
         {
             "title": "Punto de Venta para Micronegocios - Proyecto B",
             "description": "Desarrollo de un sistema de punto de venta para micronegocios, facilitando transacciones y la gestión de inventarios de manera automatizada.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoB"
         },
         {
@@ -90,13 +90,13 @@ portfolio = {
         {
             "title": "Automatización en Logística - Proyecto D",
             "description": "Integración de herramientas digitales para mejorar la eficiencia en la logística y distribución de productos.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoD"
         },
         {
             "title": "Transformación Digital Empresarial - Proyecto E",
             "description": "Aplicación de tecnologías emergentes para impulsar la transformación digital en el ámbito empresarial.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoE"
         }
     ],
@@ -104,31 +104,31 @@ portfolio = {
         {
             "title": "Análisis de Datos Financieros - Proyecto F",
             "description": "Uso de APIs y técnicas de análisis para interpretar datos financieros y generar insights estratégicos.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoF"
         },
         {
             "title": "Modelado Predictivo - Proyecto G",
             "description": "Desarrollo de modelos predictivos para pronosticar tendencias de mercado y optimizar decisiones empresariales.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoG"
         },
         {
             "title": "Visualización de Datos - Proyecto H",
             "description": "Creación de dashboards interactivos que facilitan la visualización dinámica de información clave.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoH"
         },
         {
             "title": "Análisis de Redes Sociales - Proyecto I",
             "description": "Extracción y análisis de datos de plataformas sociales para detectar tendencias y comportamientos digitales.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoI"
         },
         {
             "title": "Big Data Analytics - Proyecto J",
             "description": "Procesamiento y análisis de grandes volúmenes de datos para obtener insights estratégicos y operativos.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoJ"
         }
     ],
@@ -136,31 +136,31 @@ portfolio = {
         {
             "title": "Marketplace Digital para Municipios - Proyecto K",
             "description": "Creación de una plataforma de comercio electrónico que permita a comerciantes locales exhibir y vender sus productos en un municipio.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoK"
         },
         {
             "title": "Sitio Web Corporativo - Proyecto L",
             "description": "Desarrollo de sitios web responsivos para diversas empresas, optimizando la presencia digital y comunicación institucional.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoL"
         },
         {
             "title": "Portal de Servicios - Proyecto M",
             "description": "Plataforma web que facilita la gestión y contratación de servicios profesionales de forma interactiva.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoM"
         },
         {
             "title": "E-commerce Avanzado - Proyecto N",
             "description": "Integración de soluciones de pago y gestión de inventarios en línea para optimizar el comercio digital.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoN"
         },
         {
             "title": "Web Interactiva - Proyecto O",
             "description": "Desarrollo de sitios web con alta interactividad, enfocados en mejorar la experiencia de usuario y dinamismo visual.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoO"
         }
     ],
@@ -168,31 +168,31 @@ portfolio = {
         {
             "title": "Curso de Data Analytics - Proyecto P",
             "description": "Programa intensivo de análisis de datos utilizando herramientas modernas para la toma de decisiones estratégicas.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoP"
         },
         {
             "title": "Bootcamp TECISTEM - Proyecto Q",
             "description": "Formación intensiva en desarrollo web con certificación TECISTEM, enfocada en tecnologías front-end y back-end.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoQ"
         },
         {
             "title": "Capacitación en Automatización - Proyecto R",
             "description": "Entrenamiento en automatización de procesos y digitalización empresarial para optimizar la eficiencia operativa.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoR"
         },
         {
             "title": "Seminario de Innovación Tecnológica - Proyecto S",
             "description": "Sesiones formativas sobre las últimas tendencias en tecnología e innovación para impulsar el cambio digital.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoS"
         },
         {
             "title": "Taller de Transformación Digital - Proyecto T",
             "description": "Workshop práctico sobre la implementación de la transformación digital en empresas de diversos sectores.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoT"
         }
     ],
@@ -200,31 +200,31 @@ portfolio = {
         {
             "title": "Plan Financiero Estratégico - Proyecto U",
             "description": "Desarrollo de estrategias financieras que impulsen el crecimiento y sostenibilidad empresarial.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoU"
         },
         {
             "title": "Modelo de Negocio Digital - Proyecto V",
             "description": "Diseño de modelos de negocio innovadores orientados a la transformación digital y competitividad en el mercado.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoV"
         },
         {
             "title": "Consultoría Estratégica - Proyecto W",
             "description": "Asesoría en estrategias de negocio para optimizar operaciones y mejorar procesos internos en organizaciones.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoW"
         },
         {
             "title": "Innovación y Startups - Proyecto X",
             "description": "Desarrollo de estrategias de innovación y apoyo al lanzamiento de nuevas startups en el ámbito digital.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoX"
         },
         {
             "title": "Estrategia de Expansión - Proyecto Y",
             "description": "Planes y estrategias de expansión para empresas en mercados competitivos, impulsando el crecimiento sostenido.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoY"
         }
     ]
