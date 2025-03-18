@@ -84,7 +84,7 @@ portfolio = {
         {
             "title": "Digitalización de Procesos Administrativos - Proyecto C",
             "description": "Implementación de soluciones digitales para optimizar procesos administrativos en organizaciones diversas.",
-            "image": "/home/nichi/Imágenes/tecoo.png",
+            "image": "imagenes/holtmontSS.png",
             "link": "https://example.com/proyectoC"
         },
         {
